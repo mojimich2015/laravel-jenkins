@@ -1,0 +1,7 @@
+docker-data
+*.tar
+ansible
+.git
+docker-compose.yml
+.env
+vendor
